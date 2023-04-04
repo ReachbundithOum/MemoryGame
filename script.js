@@ -21,7 +21,7 @@ const items = [
   { name: "chameleon", image: "./images/chameleon.png" },
   { name: "piranha", image: "./images/piranha.png" },
   { name: "anaconda", image: "./images/anaconda.png" },
-  { name: "sloth", image: "./images/duck.png" },
+  { name: "duck", image: "./images/duck.png" },
   { name: "cockatoo", image: "./images/cockatoo.png" },
   { name: "toucan", image: "./images/toucan.png" },
   
